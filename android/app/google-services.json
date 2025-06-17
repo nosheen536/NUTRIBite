@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905789855925",
+    "project_id": "nutrition-app-d28c9",
+    "storage_bucket": "nutrition-app-d28c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905789855925:android:38b87f83d72854eb2ec6fc",
+        "android_client_info": {
+          "package_name": "com.example.nutribite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeTp0YOewlPqUeA8DnYDxgfUQ1dt2201Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
