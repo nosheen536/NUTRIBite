@@ -107,7 +107,6 @@ class NutriBite extends StatelessWidget {
   }
 }
 
-// ✅ Fixed: Shows Splash & Onboarding only once
 class SplashWrapper extends StatefulWidget {
   const SplashWrapper({super.key});
 
@@ -143,7 +142,6 @@ class _SplashWrapperState extends State<SplashWrapper> {
   }
 }
 
-// Handles post-auth login flow
 class AuthHandler extends StatefulWidget {
   const AuthHandler({super.key});
 
